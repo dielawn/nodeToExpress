@@ -1,0 +1,19 @@
+{
+  "name": "nodetoexpress",
+  "version": "1.0.0",
+  "description": "test server using express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dielawn/nodeToExpress.git"
+  },
+  "author": "dielawn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dielawn/nodeToExpress/issues"
+  },
+  "homepage": "https://github.com/dielawn/nodeToExpress#readme"
+}
